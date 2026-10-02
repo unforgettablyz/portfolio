@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-blueprint-blue: #2563eb;
+  --color-blueprint-bg: #f8fafc;
+
+  --font-sans: 'Inter', sans-serif;
+  --font-mono: 'Roboto Mono', monospace;
+}
